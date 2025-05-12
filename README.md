@@ -1,9 +1,6 @@
 # Face Detection Project
 A Python project for detecting faces in images and webcam feeds using OpenCV.
 
-## Author
-Melisa
-
 ## Features
 - Face detection in static images
 - Real-time face detection using webcam
