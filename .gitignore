@@ -1,0 +1,47 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+detected_faces/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Models directory - only ignore the model files, not the directory itself
+models/*.caffemodel
+models/*.prototxt
+
+# Logs
+*.log
